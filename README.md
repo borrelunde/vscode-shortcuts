@@ -56,15 +56,16 @@ General shortcuts that are not tied to a specific file type. Much of this inform
 
 ### Navigation
 
-| Operation         | Key(s)                         |
-| ----------------- | ------------------------------ |
-| Show All Symbols  | `Ctrl` + `T`                   |
-| Go to Line...     | `Ctrl` + `G`                   |
-| Go to File...     | `Ctrl` + `P`                   |
-| Go to Symbol...   | `Ctrl` + `Shift` + `O`         |
-| Show All Commands | `Ctrl` + `Shift` + `P` or `F1` |
-| Go Back           | `Alt` + `Left`                 |
-| Go Forward        | `Alt` + `Right`                |
+| Operation           | Key(s)                         |
+| ------------------- | ------------------------------ |
+| Show All Symbols    | `Ctrl` + `T`                   |
+| Go to Line...       | `Ctrl` + `G`                   |
+| Go to File...       | `Ctrl` + `P`                   |
+| Go to Symbol...     | `Ctrl` + `Shift` + `O`         |
+| Show All Commands   | `Ctrl` + `Shift` + `P` or `F1` |
+| Go Back             | `Alt` + `Left`                 |
+| Go Forward          | `Alt` + `Right`                |
+| Show Call Hierarchy | `Shift` + `Alt` + `H`          |
 
 ### Editor/Window Management
 
