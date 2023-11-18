@@ -34,12 +34,6 @@ General shortcuts that are not tied to a specific file type. Much of this inform
 | Scroll Page Up                             | `Ctrl` + `Page Up`            |
 | All Line Comment                           | `Ctrl` + `K` and `Ctrl` + `C` |
 | Remove Line Comment                        | `Ctrl` + `K` and `Ctrl` + `U` |
-| Find                                       | `Ctrl` + `F`                  |
-| Find in Files                              | `Ctrl` + `Shift` + `F`        |
-| Replace                                    | `Ctrl` + `H`                  |
-| Replace in Files                           | `Ctrl` + `Shift` + `H`        |
-| Find Next                                  | `Enter`                       |
-| Find Previous                              | `Shift` + `Enter`             |
 | Toggle Word Wrap                           | `Alt` + `Z`                   |
 
 ### Rich Languages Editing
@@ -56,16 +50,15 @@ General shortcuts that are not tied to a specific file type. Much of this inform
 
 ### Navigation
 
-| Operation           | Key(s)                         |
-| ------------------- | ------------------------------ |
-| Show All Symbols    | `Ctrl` + `T`                   |
-| Go to Line...       | `Ctrl` + `G`                   |
-| Go to File...       | `Ctrl` + `P`                   |
-| Go to Symbol...     | `Ctrl` + `Shift` + `O`         |
-| Show All Commands   | `Ctrl` + `Shift` + `P` or `F1` |
-| Go Back             | `Alt` + `Left`                 |
-| Go Forward          | `Alt` + `Right`                |
-| Show Call Hierarchy | `Shift` + `Alt` + `H`          |
+| Operation         | Key(s)                         |
+| ----------------- | ------------------------------ |
+| Show All Symbols  | `Ctrl` + `T`                   |
+| Go to Line...     | `Ctrl` + `G`                   |
+| Go to File...     | `Ctrl` + `P`                   |
+| Go to Symbol...   | `Ctrl` + `Shift` + `O`         |
+| Show All Commands | `Ctrl` + `Shift` + `P` or `F1` |
+| Go Back           | `Alt` + `Left`                 |
+| Go Forward        | `Alt` + `Right`                |
 
 ### Editor/Window Management
 
@@ -102,6 +95,19 @@ General shortcuts that are not tied to a specific file type. Much of this inform
 | Reset Zoom               | `Ctrl` + `Numpad0`          |
 | Open New Command Prompt  | `Ctrl` + `Shift` + `C`      |
 | Open Preview to the Side | `Ctrk` + `K` and `V`        |
+
+### Search
+
+| Operation           | Key(s)                  |
+| ------------------- | ----------------------- |
+| Find                | `Ctrl` + `F`            |
+| Find in Files       | `Ctrl` + `Shift` + `F`  |
+| Replace             | `Ctrl` + `H`            |
+| Replace in Files    | `Ctrl` + `Shift` + `H`  |
+| Find Next           | `Enter`                 |
+| Find Previous       | `Shift` + `Enter`       |
+| Find All References | `Shift` + `Alt` + `F12` |
+| Show Call Hierarchy | `Shift` + `Alt` + `H`   |
 
 ### Preferences
 
