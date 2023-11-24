@@ -85,16 +85,17 @@ General shortcuts that are not tied to a specific file type. Much of this inform
 
 ### Display
 
-| Operation                | Key(s)                      |
-| ------------------------ | --------------------------- |
-| Toggle Full Screen       | `F11`                       |
-| Toggle Zen Mode          | `Ctrl` + `K` and `Z`        |
-| Leave Zen Mode           | `Esc` and `Esc`             |
-| Zoom in                  | `Ctrl` + `=` (`Ctrl` + `+`) |
-| Zoom out                 | `Ctrl` + `-`                |
-| Reset Zoom               | `Ctrl` + `Numpad0`          |
-| Open New Command Prompt  | `Ctrl` + `Shift` + `C`      |
-| Open Preview to the Side | `Ctrk` + `K` and `V`        |
+| Operation                | Key(s)                       |
+| ------------------------ | ---------------------------- |
+| Toggle Full Screen       | `F11`                        |
+| Toggle Zen Mode          | `Ctrl` + `K` and `Z`         |
+| Leave Zen Mode           | `Esc` and `Esc`              |
+| Zoom in                  | `Ctrl` + `=` (`Ctrl` + `+`)  |
+| Zoom out                 | `Ctrl` + `-`                 |
+| Reset Zoom               | `Ctrl` + `Numpad0`           |
+| Open New Command Prompt  | `Ctrl` + `Shift` + `C`       |
+| Open Preview to the Side | `Ctrk` + `K` and `V`         |
+| Toggle Terminal          | `Ctrl` + `` ` `` (`Ctrl` + `Ø`) |
 
 ### Search
 
